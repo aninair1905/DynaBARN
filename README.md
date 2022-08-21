@@ -4,7 +4,7 @@ The Gazebo world files are under the folder titled 'DynaBARN_worlds_60'. The plu
 ## Example Worlds
 | Easy World  | 
 | ------------- | 
-| ![](https://user-images.githubusercontent.com/46573631/185811962-d3de840e-9e03-4554-81f9-9d312af67a66.mp4) | 
+| https://user-images.githubusercontent.com/46573631/185812061-3663bed1-66c5-4677-bc6c-65f21266c511.mp4 | 
 
 
 
