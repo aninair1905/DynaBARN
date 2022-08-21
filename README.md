@@ -11,10 +11,6 @@ Medium World:
 Hard World:
 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/46573631/185812148-88d0bf5f-284a-40ae-9034-18f5fbdf724a.mp4)  |  ![]()
-
 
 
 ## Requirements
