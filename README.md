@@ -1,6 +1,11 @@
 # DynaBARN
-Repository for DynaBARN. This code can be used to generate various DynaBARN environments of obstacles with different motion profiles. 
-## Video 
+Repository for DynaBARN. This code can be used to generate various DynaBARN environments of obstacles with different motion profiles. The 60 premade DynaBARN environments are at https://tufts.box.com/s/0dsoen9yno1qrnpj0l75eni7kmjdcx7c
+The Gazebo world files are under the folder titled 'DynaBARN_worlds_60'. The plugin files are under 'all_cylinder_plugins'.
+## Example Worlds
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Requirements
 * Python 2
