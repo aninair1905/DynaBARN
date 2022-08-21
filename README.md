@@ -5,6 +5,10 @@ To simulate the 60 premade DynaBARN worlds, export the location of the plugins t
 ```
 export GAZEBO_PLUGIN_PATH=/path/to/plugins/testplugin/all_cylinder_plugins
 ```
+Then simulate the environment using 
+```
+gazebo world_{world number}.world
+```
 ## Example Worlds
 
 Easy World:
