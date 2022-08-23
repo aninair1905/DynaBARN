@@ -11,7 +11,10 @@ gazebo world_{world number}.world
 ```
 ## Example Worlds
 
-Easy World:
+![combined_difficulty](https://user-images.githubusercontent.com/46573631/186236114-5a93b941-96ff-42a7-94c4-24c6443977e7.gif)
+
+
+<!-- Easy World:
 
 
 https://user-images.githubusercontent.com/46573631/185812166-b76cddd9-d2ca-4fd8-9a64-c41cc706c32e.mp4
@@ -28,7 +31,7 @@ Hard World:
 
 https://user-images.githubusercontent.com/46573631/185812175-7e8c0e44-5bd3-4981-8738-a84f4accdd21.mp4
 
-
+ -->
 
 
 ## Requirements
