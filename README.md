@@ -40,4 +40,4 @@ https://user-images.githubusercontent.com/46573631/185812175-7e8c0e44-5bd3-4981-
 * Matplotlib
 * SciPy
 ## Using this repository
-After cloning this repository onto your computer, create a folder called "plugins" in the same directory. 
+After cloning this repository onto your computer, create two folders called "plugins" and "worlds" in the same directory. 
