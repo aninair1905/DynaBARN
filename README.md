@@ -44,7 +44,7 @@ After cloning this repository onto your computer, create two folders called "plu
 There are a few arguments for creating the trajectories and worlds:
 * --save_dir and --plugin_dir are the directories for the world files and plugins, respectively
 * --min_object and --max_object are the minimum and maximum number of obstacles in each world
-* n--n_worlds are the number of worlds to generate 
+* --n_worlds are the number of worlds to generate 
 * --min_speed and --max_speed are the minimum and maximum speeds between each waypoint in the trajectories for each obstacle
 * --min_std and --max_std are the minimum and maximum standard deviations in speed between each waypoint
 * --difficulty is the difficulty to label each trajectory, but it is not necessary
