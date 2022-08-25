@@ -172,11 +172,10 @@ if __name__ == "__main__":
     import os
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--save_dir', type=str, default="easy_worlds/worlds")
+    parser.add_argument('--save_dir', type=str, default="/worlds")
     parser.add_argument('--seed', type=int, default=11)
     parser.add_argument('--min_object', type=int, default=2)
     parser.add_argument('--max_object', type=int, default=6)
-    parser.add_argument('--start_idx', type=int, default=300)
     parser.add_argument('--n_worlds', type=int, default=100)
     parser.add_argument('--min_speed', type=float,required=True)
     parser.add_argument('--max_speed', type=float, required=True)
@@ -185,12 +184,13 @@ if __name__ == "__main__":
     parser.add_argument('--min_order', type=int, required=True)
     parser.add_argument('--max_order', type=int, required=True)
     parser.add_argument('--rebuild_plugin', action="store_true")
-    parser.add_argument('--difficulty', type=str, default="hard")
+    parser.add_argument('--difficulty', type=str, default="easy")
+    parser.add_argument('--plugins_dir', type=str, default="plugins")
     args = parser.parse_args()
     np.random.seed(args.seed)
 
     # # 1 build plugins
-    plugins_dir = args.difficulty + "_worlds/plugins"
+    plugins_dir = args.plugins_dir
     # if args.rebuild_plugin or not os.path.exists(plugins_dir):
     np.random.seed(args.seed)
     # os.mkdir(plugins_dir)
